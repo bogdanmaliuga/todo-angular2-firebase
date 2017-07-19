@@ -1,6 +1,8 @@
 export const firebaseConfig = {
-  apiKey: 'AIzaSyDaEW83qAOozjJbbJP1YYbEHxxfFksdSHQ',
-  authDomain: 'ng2-todo-app.firebaseapp.com',
-  databaseURL: 'https://ng2-todo-app.firebaseio.com',
-  storageBucket: 'ng2-todo-app.appspot.com'
+   apiKey: 'AIzaSyDWpz7pUXN2t4u3ZJNQM7KpyyRozpLaDco',
+    authDomain: 'angular-2-b29cb.firebaseapp.com',
+    databaseURL: 'https://angular-2-b29cb.firebaseio.com',
+    projectId: 'angular-2-b29cb',
+    storageBucket: 'angular-2-b29cb.appspot.com',
+    messagingSenderId: '946223496863'
 };
